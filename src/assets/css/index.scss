@@ -1,3 +1,6 @@
-body {
-    background-color: #000;
-}
+@import './utils/variable';
+
+@import './basic/reset.scss';
+@import './basic/basic';
+
+@import './page/loading'
